@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Test": {
-      "commandName": "Project",
-      "commandLineArgs": "-file \"C:\\Users\\kenne\\Documents\\GitHub\\grammars-v4-2114\\cpp\\examples\\xx.cpp\" -tree"
-    }
-  }
-}
